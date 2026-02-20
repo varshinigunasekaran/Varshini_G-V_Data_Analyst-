@@ -15,6 +15,7 @@ Data Visualization and Reporting.
 
 ## Projects
 1.HR Recruitment Analytics- Analyzed hiring trends using SQL and Power BI,Python.
+
 2.Finance Analysis- Created interactive Power Bi dashboards to track Finance analysis.
 
 
