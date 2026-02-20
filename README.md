@@ -7,11 +7,11 @@ Hi! i'm varshini G V, an aspiring Data Analyst passionate about turning data int
 you can download my resume here:[Resume PDF](./Resume.pdf)
 
 ## Skills
--SQL
--Excel
--Power Bi
--Python
--Data Visualization and Reporting
+SQL,
+Excel,
+Power Bi,
+Python,
+Data Visualization and Reporting.
 
 ## Projects
 1.HR Recruitment Analytics- Analyzed hiring trends using SQL and Power BI,Python.
